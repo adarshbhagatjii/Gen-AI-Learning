@@ -1,5 +1,12 @@
 # 🚀 Generative AI Engineer Journey
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-orange)
+![LangGraph](https://img.shields.io/badge/LangGraph-Stateful%20AI-green)
+![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-red)
+![LLMs](https://img.shields.io/badge/LLMs-Large%20Language%20Models-purple)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-lightgrey)
+
 This repository documents my learning and hands-on exploration in **Generative AI**, focusing on **Natural Language Processing (NLP)**, **Large Language Models (LLMs)**, **LangChain**, and **LangGraph**.
 
 ---
