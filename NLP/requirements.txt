@@ -1,0 +1,9 @@
+##Tokenization to Normalization
+nltk
+spacy
+streamlit
+pandas 
+# word embeddings and topic modeling
+scikit-learn
+gensim
+scipy==1.16.3
