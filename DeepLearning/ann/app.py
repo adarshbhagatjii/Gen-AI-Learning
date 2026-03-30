@@ -13,9 +13,6 @@ model_path = os.path.join(BASE_DIR, "model.h5")
 
 model = tf.keras.models.load_model(model_path)
 
-# Load the trained models
-model=tf.keras.models.load_model('model.h5')
-
 # Load the encoders and scaler
 encoder_path = os.path.join(BASE_DIR, "label_encoder_gender.pkl")
 with open(encoder_path, 'rb')as file:
