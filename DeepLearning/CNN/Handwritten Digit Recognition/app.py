@@ -6,7 +6,10 @@ import matplotlib.pyplot as plt
 from streamlit_drawable_canvas import st_canvas
 
 # Load model
-model = tf.keras.models.load_model("model.h5")
+BASE_DIR = os.path.dirname(__file__)
+
+model_path = os.path.join(BASE_DIR, "model.h5")
+model = tf.keras.models.load_model(model_path)
 
 st.set_page_config(page_title="Digit Recognizer", layout="centered")
 
