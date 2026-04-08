@@ -1,0 +1,37 @@
+# -------------------- LangChain Core --------------------
+langchain>=0.2.0
+langchain-core>=0.2.0
+
+# -------------------- LLM Providers --------------------
+# Groq (used in your code)
+langchain-groq
+groq
+
+# OpenAI (optional but commonly used)
+langchain-openai
+openai
+
+# Anthropic Claude (optional)
+langchain-anthropic
+
+# Google Gemini (optional)
+langchain-google-genai
+google-generativeai
+
+# HuggingFace models (optional)
+langchain-huggingface
+transformers
+huggingface-hub
+
+# -------------------- Output Parsing / Data --------------------
+pydantic>=2.0
+
+# -------------------- Environment Variables --------------------
+python-dotenv
+
+# -------------------- Utilities --------------------
+numpy
+scikit-learn
+
+# -------------------- App / UI (optional) --------------------
+streamlit
