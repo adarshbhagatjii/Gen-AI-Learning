@@ -1,0 +1,23 @@
+# ---------------- Core LangChain ----------------
+langchain
+langchain-core
+langchain-community
+
+# ---------------- Groq LLM ----------------
+langchain-groq
+groq
+
+
+# ---------------- Output parsing / validation ----------------
+pydantic
+
+# ---------------- Environment variable support ----------------
+python-dotenv
+
+# ---------------- Utilities (optional but recommended) ----------------
+numpy
+scikit-learn
+pandas
+
+# ---------------- For UI apps (optional) ----------------
+streamlit
